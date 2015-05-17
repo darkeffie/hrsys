@@ -1,0 +1,11 @@
+C:\Users\dark\AppData\Local\Temporary Projects\HRsys\bin\Debug\HRsys.exe
+C:\Users\dark\AppData\Local\Temporary Projects\HRsys\bin\Debug\HRsys.pdb
+C:\Users\dark\AppData\Local\Temporary Projects\HRsys\obj\x86\Debug\HRsys.Properties.Resources.resources
+C:\Users\dark\AppData\Local\Temporary Projects\HRsys\obj\x86\Debug\HRsys.csproj.GenerateResource.Cache
+C:\Users\dark\AppData\Local\Temporary Projects\HRsys\obj\x86\Debug\HRsys.exe
+C:\Users\dark\AppData\Local\Temporary Projects\HRsys\obj\x86\Debug\HRsys.pdb
+C:\Users\dark\AppData\Local\Temporary Projects\HRsys\obj\x86\Debug\HRsys.ApplicantForm.resources
+C:\Users\dark\AppData\Local\Temporary Projects\HRsys\obj\x86\Debug\HRsys.AvailablePosition.resources
+C:\Users\dark\AppData\Local\Temporary Projects\HRsys\obj\x86\Debug\HRsys.LoginForm.resources
+C:\Users\dark\AppData\Local\Temporary Projects\HRsys\obj\x86\Debug\HRsys.SecurePanel.resources
+C:\Users\dark\AppData\Local\Temporary Projects\HRsys\obj\x86\Debug\HRsys.UserForm.resources
